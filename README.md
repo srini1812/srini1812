@@ -96,7 +96,6 @@ def srinivas():
           <a href="https://textdocanalyer.streamlit.app/" target="_blank">
           </a>
           <a href="https://github.com/srini1812/text-document-analyzer" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github">
           </a>
         </p>
         <p><strong>Grammar correction in documents while preserving formatting</strong></p>
