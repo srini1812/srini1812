@@ -10,13 +10,39 @@ Machine Learning Developer with expertise in Deep Learning, Computer Vision, NLP
 
 ```python
 def srinivas():
-    return {
+    """
+    ╔══════════════════════════════════════════════════════════╗
+    ║  ███████╗██████╗ ██╗███╗   ██╗██╗    ██╗   ██╗ █████╗ ███████╗  ║
+    ║  ██╔════╝██╔══██╗██║████╗  ██║██║    ██║   ██║██╔══██╗██╔════╝  ║
+    ║  ███████╗██████╔╝██║██╔██╗ ██║██║    ██║   ██║███████║███████╗  ║
+    ║  ╚════██║██╔══██╗██║██║╚██╗██║██║    ╚██╗ ██╔╝██╔══██║╚════██║  ║
+    ║  ███████║██║  ██║██║██║ ╚████║███████╗╚████╔╝ ██║  ██║███████║  ║
+    ║  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝╚══════╝  ║
+    ╚══════════════════════════════════════════════════════════╝
+    """
+    
+    # System initialization...
+    system = {
+        "OS": "ML-Developer v3.5",
+        "Status": "Online",
+        "Location": "Chennai, India"
+    }
+    
+    # Loading profile data...
+    profile = {
         "name": "Srinivas K M",
         "role": "Machine Learning Developer & AI Specialist",
-        "location": "Chennai, India",
         "education": "MTech in AI & Data Science (VIT University)",
-        "interests": ["Deep Learning", "Computer Vision", "NLP", "Reinforcement Learning"]
+        "specialization": ["Deep Learning", "Computer Vision", "NLP", "Reinforcement Learning"],
+        "mission": "Transforming data into intelligent solutions"
     }
+    
+    print("[System] Profile loaded successfully.")
+    return profile
+
+# > srinivas()
+# [System] Profile loaded successfully.
+# {'name': 'Srinivas K M', 'role': 'Machine Learning Developer & AI Specialist'...}
 ```
 
 ## Tech Stack:
