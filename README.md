@@ -4,7 +4,7 @@
 
 ## Bio:
 
-Talented Machine Learning Developer with expertise in Deep Learning, Computer Vision, NLP, Data Science, and AI-driven solutions. MTech in AI & Data Science from VIT University.
+Machine Learning Developer with expertise in Deep Learning, Computer Vision, NLP, Data Science, and AI-driven solutions. MTech in AI & Data Science from VIT University.
 
 ## Explor
 
