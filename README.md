@@ -49,7 +49,7 @@ def srinivas():
       <h3 align="center">Stock Market Prediction System</h3>
       <div align="center">
         <a href="https://github.com/srini1812/Deep-Reinforcement-Learning-on-Stock" target="_blank">
-        <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="300" alt="Stock Market Prediction">
+            <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="300" alt="Stock Market Prediction">
         </a>
         <p>
           <a href="https://github.com/srini1812/Deep-Reinforcement-Learning-on-Stock" target="_blank">
@@ -63,7 +63,7 @@ def srinivas():
       <h3 align="center">Real-time Driver Safety System</h3>
       <div align="center">
         <a href="https://github.com/srini1812/Drowsiness-Driver-detection" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA0MGJwZXduMXcwbTVmM3FzdWQzMm02bnQ0bTQ5anh3cXBmN3hrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGkw5HOx1LHbzLq/giphy.gif" width="300" alt="Driver Safety System">
+            <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Driver Safety System">
         </a>
         <p>
           <a href="https://github.com/srini1812/Drowsiness-Driver-detection" target="_blank">
@@ -79,7 +79,7 @@ def srinivas():
       <h3 align="center">NLP Sentiment Analysis</h3>
       <div align="center">
         <a href="https://github.com/srini1812/Sentiment-Text-Classifier" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA0MGJwZXduMXcwbTVmM3FzdWQzMm02bnQ0bTQ5anh3cXBmN3hrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGkw5HOx1LHbzLq/giphy.gif" width="300" alt="NLP Sentiment Analysis">
+            <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="NLP Sentiment Analysis">
         </a>
         <p>
           <a href="https://github.com/srini1812/Sentiment-Text-Classifier" target="_blank">
@@ -93,7 +93,7 @@ def srinivas():
       <h3 align="center">Text Document Analyzer</h3>
       <div align="center">
         <a href="https://textdocanalyer.streamlit.app/" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA0MGJwZXduMXcwbTVmM3FzdWQzMm02bnQ0bTQ5anh3cXBmN3hrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGkw5HOx1LHbzLq/giphy.gif" width="300" alt="Text Document Analyzer">
+            <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Text Document Analyzer">
         </a>
         <p>
           <a href="https://textdocanalyer.streamlit.app/" target="_blank">
