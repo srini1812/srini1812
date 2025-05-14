@@ -49,7 +49,7 @@ def srinivas():
       <h3 align="center">Stock Market Prediction System</h3>
       <div align="center">
         <a href="https://github.com/srini1812/Deep-Reinforcement-Learning-on-Stock" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA0MGJwZXduMXcwbTVmM3FzdWQzMm02bnQ0bTQ5anh3cXBmN3hrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGkw5HOx1LHbzLq/giphy.gif" width="300" alt="Stock Market Prediction">
+        <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="300" alt="Stock Market Prediction">
         </a>
         <p>
           <a href="https://github.com/srini1812/Deep-Reinforcement-Learning-on-Stock" target="_blank">
