@@ -123,13 +123,6 @@ def srinivas():
 - **Bachelor of Engineering in Electronics & Communication** (2017-2021)  
   KCG College of Technology, Chennai | CGPA: 7.85/10
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srini1812&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=srini1812&theme=dark" alt="srini1812" />
-</p>
-
 ## 🏆 Few things about me
 
 - 🔭 I'm currently working on advanced deep learning applications for real-world problems
