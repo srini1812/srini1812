@@ -49,7 +49,6 @@ def srinivas():
       <h3 align="center">Stock Market Prediction System</h3>
       <div align="center">
         <a href="https://github.com/srini1812/Deep-Reinforcement-Learning-on-Stock" target="_blank">
-            <img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="300" alt="Stock Market Prediction">
         </a>
         <p>
           <a href="https://github.com/srini1812/Deep-Reinforcement-Learning-on-Stock" target="_blank">
@@ -63,7 +62,6 @@ def srinivas():
       <h3 align="center">Real-time Driver Safety System</h3>
       <div align="center">
         <a href="https://github.com/srini1812/Drowsiness-Driver-detection" target="_blank">
-            <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" alt="Driver Safety System">
         </a>
         <p>
           <a href="https://github.com/srini1812/Drowsiness-Driver-detection" target="_blank">
@@ -76,17 +74,16 @@ def srinivas():
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">NLP Sentiment Analysis</h3>
+      <h3 align="center">Sentiment Text Classifier</h3>
       <div align="center">
-        <a href="https://github.com/srini1812/Sentiment-Text-Classifier" target="_blank">
-            <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="NLP Sentiment Analysis">
+        <a href="https://github.com/srini1812/Sentiment_Text_Classifier_based_on_distilBERT" target="_blank">
         </a>
         <p>
-          <a href="https://github.com/srini1812/Sentiment-Text-Classifier" target="_blank">
+          <a href="https://github.com/srini1812/Sentiment_Text_Classifier_based_on_distilBERT" target="_blank">
             <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github">
           </a>
         </p>
-        <p><strong>Market sentiment analysis system powered by DistilBERT</strong></p>
+        <p><strong>Sentiment Text Classifier Analysis</strong></p>
       </div>
     </td>
     <td width="50%">
@@ -97,7 +94,6 @@ def srinivas():
         </a>
         <p>
           <a href="https://textdocanalyer.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-Live_App-green?style=for-the-badge&logo=streamlit">
           </a>
           <a href="https://github.com/srini1812/text-document-analyzer" target="_blank">
             <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github">
