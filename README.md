@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=srini1812&color=blue) ![Available for Work](https://img.shields.io/badge/Available_for-ML & DS Projects-brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=srini1812&color=blue) ![Available for Work](https://img.shields.io/badge/Available_for-ML_and_DS_Projects-brightgreen)
 
 ## Bio:
 
