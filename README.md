@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=srini1812&color=blue) ![Available for Work](https://img.shields.io/badge/Available_for-Machine_Learning_Projects-brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=srini1812&color=blue) ![Available for Work](https://img.shields.io/badge/Available_for-ML & DS Projects-brightgreen)
 
 ## Bio:
 
@@ -117,6 +117,5 @@ Machine Learning Developer with expertise in Deep Learning, Computer Vision, NLP
 - 👯 I'm looking to collaborate on AI and machine learning projects
 - 💬 Ask me about deep learning, computer vision, NLP, or machine learning engineering
 - 📫 How to reach me: [1812srini@gmail.com](mailto:1812srini@gmail.com)
-- ⚡ Fun fact: I'm passionate about using AI to solve social impact challenges
 
 ---
